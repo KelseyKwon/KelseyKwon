@@ -5,10 +5,11 @@
 </div>
 
 <h3 align="center">🌱 Activity 🌱</h3>
-2021.03 ~ 건국대학교 스마트ict융합공학과
-2024.01 ~ 2024.05 Completed an exchange program at the University of Wisconsin–Madison, [Computer Science and Media Communication]
-2025.03 ~ 2025.08 건국대학교 개발 동아리 KUIT 5기 : Server
-2025.10 ~ Digital Hanaro 8기 : 금융 서비스 개발
+
+- `2021.03 ~` : 건국대학교 스마트ict융합공학과 
+- `2024.01 ~ 2024.05` : Completed an exchange program at the University of Wisconsin–Madison, `(Computer Science & Media Communication)`
+- `2025.03 ~ 2025.08` : 건국대학교 개발 동아리 KUIT 5기 - `Server`
+- `2025.10 ~` : Digital Hanaro 8기 - `금융 서비스 개발`
 
 <h3 align="center">✨ Currently Studying & Tech Stack ✨</h3>
 <br>
