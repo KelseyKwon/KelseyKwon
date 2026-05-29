@@ -8,7 +8,7 @@
 
 - `2021.03 ~ 2026.08` : 스마트ict융합공학과 졸업 예정
 - `2024.01 ~ 2024.05` : Completed an exchange program at the University of Wisconsin–Madison, `(Computer Science & Media Communication)`
-- `2025.03 ~ 2025.08` : 개발 동아리 KUIT 5기 - `Server`
+- `2024.09 ~ 2025.08` : 개발 동아리 KUIT 5기 - `Server`
 - `2025.10 ~ 2026.04` : Digital Hanaro 8기 - **`금융 서비스 개발 최우수 수료`**
 
 <h3 align="center">📝 Language & Certificate 📝</h3>
