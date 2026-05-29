@@ -11,6 +11,15 @@
 - `2025.03 ~ 2025.08` : 개발 동아리 KUIT 5기 - `Server`
 - `2025.10 ~ 2026.04` : Digital Hanaro 8기 - **`금융 서비스 개발 최우수 수료`**
 
+<h3 align="center">📝 Language & Certificate 📝</h3>
+
+- `2025.06` : TOEIC Speaking AL(160)
+- `2025.08` : TOEIC 900
+- `2025.09` : 정보처리기사
+- `2025.09` : SQLD
+- `2026.05` : 투자자산운용사
+
+
 <h3 align="center">✨ Currently Studying & Tech Stack ✨</h3>
 <br>
 <div align="center">
